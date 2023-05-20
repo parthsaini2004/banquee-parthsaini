@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/banquee-parthsaini/static/css/main.c476ef3b.css",
+    "main.js": "/banquee-parthsaini/static/js/main.b73f7828.js",
+    "static/js/787.6b3001af.chunk.js": "/banquee-parthsaini/static/js/787.6b3001af.chunk.js",
+    "static/media/starblue.png": "/banquee-parthsaini/static/media/starblue.a40c52297530386e32ff.png",
+    "static/media/q1.png": "/banquee-parthsaini/static/media/q1.01f6ba829eda2f76e9e9.png",
+    "static/media/masker.png": "/banquee-parthsaini/static/media/masker.490c10e1a5b4d225218c.png",
+    "static/media/q2.png": "/banquee-parthsaini/static/media/q2.6a4e3bb5675cff265f43.png",
+    "static/media/q3.png": "/banquee-parthsaini/static/media/q3.2b29e26402aa5b6aa1d4.png",
+    "static/media/Hero Image.png": "/banquee-parthsaini/static/media/Hero Image.be1886d4e4aef7c9f519.png",
+    "static/media/secure.png": "/banquee-parthsaini/static/media/secure.d342d61af87ad4ac0527.png",
+    "static/media/c1.png": "/banquee-parthsaini/static/media/c1.91509d7513de2d6d3934.png",
+    "static/media/c2.png": "/banquee-parthsaini/static/media/c2.d4792f255a785dde13da.png",
+    "static/media/bill.png": "/banquee-parthsaini/static/media/bill.6fd2c063814493a7c3eb.png",
+    "static/media/5 1.png": "/banquee-parthsaini/static/media/5 1.92c113cf5c2dde26a1d9.png",
+    "static/media/rebecca.png": "/banquee-parthsaini/static/media/rebecca.a084c5c517655454a798.png",
+    "static/media/william.png": "/banquee-parthsaini/static/media/william.2623c9d22e60fa73e626.png",
+    "static/media/9 1.png": "/banquee-parthsaini/static/media/9 1.29c8fdf70f95d0512f7f.png",
+    "static/media/Star 4.png": "/banquee-parthsaini/static/media/Star 4.0cf8a30b5095f78fbcfa.png",
+    "static/media/image 2.png": "/banquee-parthsaini/static/media/image 2.c8f6addcc3ecf390da2b.png",
+    "index.html": "/banquee-parthsaini/index.html",
+    "main.c476ef3b.css.map": "/banquee-parthsaini/static/css/main.c476ef3b.css.map",
+    "main.b73f7828.js.map": "/banquee-parthsaini/static/js/main.b73f7828.js.map",
+    "787.6b3001af.chunk.js.map": "/banquee-parthsaini/static/js/787.6b3001af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c476ef3b.css",
+    "static/js/main.b73f7828.js"
+  ]
+}
